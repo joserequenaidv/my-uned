@@ -1,4 +1,4 @@
-![](images/uned.jpg)
+![](images/uned.png)
 # My UNED Experience
 In this repository, I share what I've learned and created while at [Spain's National Distance Education University](http://portal.uned.es/portal/page?_pageid=93,24305391&_dad=portal&_schema=PORTAL)
 
@@ -15,6 +15,7 @@ The icons I use in all my documents and commits are found in [the complete list 
 - :books: - Creation, customisation and organization of directories
 - :speech_balloon: - Coding
 - :no_entry: - .gitignore updates
+- :sunrise_over_mountains: - Images
 
 ## Sources
 #### - [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
