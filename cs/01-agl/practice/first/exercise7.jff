@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>
+	<type>pda</type>
+	<automaton>
+		<!--The list of states.-->
+		<state id="1" name="q1">
+			<x>98.0</x>
+			<y>194.0</y>
+			<initial/>
+		</state>
+		<state id="2" name="q2">
+			<x>241.0</x>
+			<y>91.0</y>
+			<final/>
+		</state>
+		<state id="3" name="q3">
+			<x>229.0</x>
+			<y>452.0</y>
+			<final/>
+		</state>
+		<state id="4" name="q4">
+			<x>302.0</x>
+			<y>220.0</y>
+		</state>
+		<state id="5" name="q5">
+			<x>403.0</x>
+			<y>100.0</y>
+		</state>
+		<state id="6" name="q6">
+			<x>387.0</x>
+			<y>372.0</y>
+		</state>
+		<state id="7" name="q7">
+			<x>513.0</x>
+			<y>217.0</y>
+		</state>
+		<state id="8" name="q8">
+			<x>720.0</x>
+			<y>219.0</y>
+			<final/>
+		</state>
+		<!--The list of transitions.-->
+		<transition>
+			<from>3</from>
+			<to>3</to>
+			<read>b</read>
+			<pop/>
+			<push/>
+		</transition>
+		<transition>
+			<from>5</from>
+			<to>5</to>
+			<read>b</read>
+			<pop/>
+			<push/>
+		</transition>
+		<transition>
+			<from>1</from>
+			<to>2</to>
+			<read>d</read>
+			<pop/>
+			<push/>
+		</transition>
+		<transition>
+			<from>4</from>
+			<to>5</to>
+			<read>b</read>
+			<pop>y</pop>
+			<push>x</push>
+		</transition>
+		<transition>
+			<from>5</from>
+			<to>7</to>
+			<read>c</read>
+			<pop>x</pop>
+			<push/>
+		</transition>
+		<transition>
+			<from>1</from>
+			<to>3</to>
+			<read>b</read>
+			<pop/>
+			<push/>
+		</transition>
+		<transition>
+			<from>1</from>
+			<to>4</to>
+			<read>a</read>
+			<pop/>
+			<push>y</push>
+		</transition>
+		<transition>
+			<from>6</from>
+			<to>7</to>
+			<read>c</read>
+			<pop>y</pop>
+			<push/>
+		</transition>
+		<transition>
+			<from>4</from>
+			<to>4</to>
+			<read>a</read>
+			<pop/>
+			<push>y</push>
+		</transition>
+		<transition>
+			<from>4</from>
+			<to>6</to>
+			<read>d</read>
+			<pop/>
+			<push/>
+		</transition>
+		<transition>
+			<from>7</from>
+			<to>7</to>
+			<read>c</read>
+			<pop>y</pop>
+			<push/>
+		</transition>
+		<transition>
+			<from>7</from>
+			<to>8</to>
+			<read/>
+			<pop>Z</pop>
+			<push/>
+		</transition>
+	</automaton>
+</structure>

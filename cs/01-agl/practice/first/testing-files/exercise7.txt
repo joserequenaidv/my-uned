@@ -1,0 +1,10 @@
+b
+d
+abc
+adc
+aadcc
+ac
+ca
+bac
+bcc
+ccc
