@@ -1,3 +1,4 @@
+![](../images/cs.png)
 # Computer Science Degree
 This is the repository of the [Computer Science Degree](http://portal.uned.es/portal/page?_pageid=93,22985816&_dad=portal&_schema=PORTAL) (content in :es:), given by the Spain's National Distance Education University *(Universidad Nacional de Educación a Distancia (UNED))*.
 
@@ -9,8 +10,8 @@ The following are some indications in order to understand the organization of th
 - The number before each course indicates the order I took them, whereas the position on the list represents the year.
 
 ## Courses
-#### - First year
-    - Second semester
-        - 01 - **AGL** - [Automatons, Grammars and Languages](./agl/README.md)
-        - 02 - **OOP** - [Object-oriented Programming](./oop/README.md)
-        - 03 - **PSDS** - [Programming Strategies and Data Structures](./psds/README.md)
+### First year
+- Second semester
+    - 01 | **AGL** | [Automatons, Grammars and Languages](./agl/README.md)
+    - 02 | **OOP** | [Object-oriented Programming](./oop/README.md)
+    - 03 | **PSDS** | [Programming Strategies and Data Structures](./psds/README.md)
