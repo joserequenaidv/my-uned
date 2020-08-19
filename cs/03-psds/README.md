@@ -80,6 +80,12 @@
 
 ## Unit 2: Recursive Programming
 ### Recursion
+- Introduction
+- Recursive Objects (01:35 - 04:00)
+- Recursive Structures (04:00 - 08:05)
+- Recursive Definitions (08:10 - 16:45)
+- Recursive Programs (16:50 - 24:10)
+- Pros of Recursive Programming (24:15 - 27:45)
 
 ## Unit 3: Basic Analysis of Algorithms
 ### Introduction
